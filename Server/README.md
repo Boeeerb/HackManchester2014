@@ -1,0 +1,1 @@
+Just create your ClockworkSMS account and pop in the API key to enable the text part, or just update the word.txt file with your chosen design

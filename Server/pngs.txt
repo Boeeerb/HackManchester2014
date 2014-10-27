@@ -1,0 +1,7 @@
+sword
+bike
+smile
+ghostred
+ghostblue
+pacman
+pacghost
